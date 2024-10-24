@@ -3,11 +3,11 @@
 
 <div>
   <h3>Main Skills:</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,cs,postgres" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,postgres" />
   <h3>Tools:</h3>
     <img src="https://skillicons.dev/icons?i=git,github,arch,linux,vscode,rider"/>
   <h3>Other Knowledge:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js"/>
 </div>
 
 <br />
