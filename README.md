@@ -1,4 +1,5 @@
 <h1>Hello! I'm João Ricardo</h1> 
+<img src="https://github.com/J0aoSiqueira/J0aoSiqueira/blob/main/gitub_banner.png" alt="a banner"/>
 <p>A web developer and software engineer. I am 20 years old and currently pursuing a Bachelor's degree in Computer Science at the Federal University of Technology – Paraná (UTFPR-CM).</p>
 
 <div>
