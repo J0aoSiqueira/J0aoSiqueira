@@ -4,11 +4,11 @@
 
 <div>
   <h3>Main Skills:</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,postgres" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,html,css,js" />
   <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,arch,linux,vscode,rider"/>
+    <img src="https://skillicons.dev/icons?i=git,github,arch,linux,vscode"/>
   <h3>Other Knowledge:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,postgres"/>
 </div>
 
 <br />
