@@ -1,12 +1,12 @@
 <h1>Hello! I'm João Ricardo</h1> 
 <img src="https://github.com/J0aoSiqueira/J0aoSiqueira/blob/main/github_banner.png" alt="a banner"/>
-<p>A web developer and software engineer. I am 20 years old and currently pursuing a Bachelor's degree in Computer Science at the Federal University of Technology – Paraná (UTFPR-CM).</p>
+<p>A web developer and software engineer. I am 20 years old and currently pursuing a Bachelor's degree in Computer Science at Federal University of Technology – Paraná (UTFPR-CM).</p>
 
 <div>
   <h3>Main Skills:</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,js" />
   <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,arch,linux,vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,github,arch,ubuntu,linux,vscode"/>
   <h3>Other Knowledge:</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,postgres"/>
 </div>
