@@ -4,10 +4,10 @@
 
 <div>
   <h3>Main Skills:</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nestjs,tailwind,html,css,js" />
   <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,arch,ubuntu,linux,vscode"/>
-  <h3>Other Knowledge:</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,arch,ubuntu,linux,vscode,postman"/>
+  <h3>Other Skills that I've gained:</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,postgres"/>
 </div>
 
