@@ -21,7 +21,8 @@
 </div>
 
 <div>
-  <h2>Contact:</h2>
-  <a href="https://www.instagram.com/joaoricardo_ps/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/joao-p-siqueira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <h2>Contact me:</h2>
+  <a href="https://www.instagram.com/joaoricardo_ps/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/joaorsiqueira/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:joao.pradosiqueira@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </div>
